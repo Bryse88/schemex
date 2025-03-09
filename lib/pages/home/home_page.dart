@@ -43,7 +43,7 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: Colors.transparent,
       appBar: const PreferredSize(
         preferredSize: Size.fromHeight(kToolbarHeight),
-        child: HomePageAppBar(titleText: 'ENCITE'),
+        child: HomePageAppBar(titleText: 'SCHEME'),
       ),
       body: RefreshIndicator(
         onRefresh: _refreshPage,

@@ -36,7 +36,7 @@ class _LoginPageState extends State<LoginPage> {
               ),
               SizedBox(height: 20.h),
               ResuableText(
-                text: "ENCITE",
+                text: "SCHEME",
                 style: TextStyle(
                   fontFamily: 'Kalam',
                   fontSize: 38.sp,
