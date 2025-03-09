@@ -7,8 +7,6 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:schemex/controllers/user_controller.dart';
 import 'package:schemex/pages/Login_SignUp/auth_page.dart';
 import 'package:schemex/pages/firebase_options.dart';
-import 'package:schemex/pages/home/home_page.dart';
-import 'package:schemex/pages/Login_SignUp/auth_page.dart';
 import 'package:get/get.dart';
 
 Future<void> main() async {

@@ -3,7 +3,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:sign_in_with_apple/sign_in_with_apple.dart';
 import 'package:get/get.dart';
-import 'package:flutter/material.dart';
 import 'package:schemex/pages/Login_SignUp/checking_page.dart'; // Adjust this import based on your project structure
 
 class AuthServices {

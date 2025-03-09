@@ -10,7 +10,6 @@ import 'package:schemex/components/safe_navigation.dart';
 import 'package:schemex/components/user_data_service.dart';
 import 'package:schemex/controllers/category_controller.dart';
 import 'package:schemex/pages/business_pages/business_list.dart';
-import 'package:schemex/pages/search/category_page.dart';
 
 class DrinkDetailsPage extends StatelessWidget {
   final String image;
